@@ -116,13 +116,13 @@ const technologies = [
 ];
 
 const experiences = [
-  {
-    title: 'React Engineer - Remote, Full-Time',
-    company_name: 'Bluelight Consulting',
-    icon: bluelight,
-    iconBg: '#333333',
-    date: 'march 2022 - present',
-  },
+  // {
+  //   title: 'React Engineer - Remote, Full-Time',
+  //   company_name: 'Bluelight Consulting',
+  //   icon: bluelight,
+  //   iconBg: '#333333',
+  //   date: 'march 2022 - present',
+  // },
   {
     title: 'Freelancer',
     company_name: 'Upwork',
@@ -167,7 +167,7 @@ const projects = [
     ],
     image: carrental,
     repo: 'https://github.com/maljaroudi1/car-rental-rentgo.git',
-    demo: 'https://car-rental-refined-3jl464kas-maljaroudi2000.vercel.app/',
+    demo: 'https://rentgo-car-rental.vercel.app/',
   },
   {
     id: 'project-2',
